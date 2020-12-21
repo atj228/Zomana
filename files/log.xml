@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-01-07T18:30:14.699118Z</date>
+  <millis>1578421814699</millis>
+  <nanos>118000</nanos>
+  <sequence>6</sequence>
+  <logger>store.gui.StoreGUI</logger>
+  <level>INFO</level>
+  <class>store.gui.StoreGUI</class>
+  <method>actionPerformed</method>
+  <thread>16</thread>
+  <message>Client Connexion : Thierry KHAMPHOUSONE</message>
+</record>
+<record>
+  <date>2020-01-07T18:30:15.639386Z</date>
+  <millis>1578421815639</millis>
+  <nanos>386000</nanos>
+  <sequence>7</sequence>
+  <logger>store.gui.StoreGUI</logger>
+  <level>INFO</level>
+  <class>store.gui.StoreGUI</class>
+  <method>actionPerformed</method>
+  <thread>16</thread>
+  <message>Transaction : Thierry KHAMPHOUSONE : Le Mur invisible : 1</message>
+</record>
+</log>
